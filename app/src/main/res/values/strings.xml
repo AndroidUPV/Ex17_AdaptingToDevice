@@ -1,0 +1,18 @@
+<!--
+  ~ Copyright (c) 2022
+  ~ David de Andrés and Juan Carlos Ruiz
+  ~ Development of apps for mobile devices
+  ~ Universitat Politècnica de València
+  -->
+<resources>
+    <string name="app_name" translatable="false">Ex17_AdaptingToDevice</string>
+    <!-- Strings used in MainActivity: English version by default -->
+    <string name="selected_language">Selected language in the device: </string>
+    <string name="flag_selected_language">Flag of the selected language in the device</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="fifth">Fifth</string>
+    <string name="sixth">Sixth</string>
+</resources>
